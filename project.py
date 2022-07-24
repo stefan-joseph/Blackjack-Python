@@ -197,8 +197,5 @@ class Blackjack:
         else: return f"\nYou have ${m}. You need $200 to win."
 
 
-   
-
-
 if __name__ == "__main__":
     main()
